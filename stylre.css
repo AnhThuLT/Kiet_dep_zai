@@ -1,0 +1,39 @@
+.body{
+  background-color: red;
+}
+.Hop1{
+  border : 2px solid rgb(213, 210, 210);
+  width: 800px;
+  height: auto;
+  background-color: rgb(250, 244, 244);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.dong1{
+  display: inline-block ;
+  font-size: 20px;
+}
+.dong2{
+  display: inline-block ;
+}
+.chu{
+  color: green;
+}
+.Hop2{
+  border : 2px solid rgb(213, 210, 210);
+  width: 800px;
+  height: auto;
+  background-color: rgb(250, 244, 244);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 20px;
+}
+.boc{
+  border-top: 1px solid rgb(66, 64, 64);
+  margin-bottom: 10px;
+  padding-top:20px ;
+}
